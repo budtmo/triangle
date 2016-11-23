@@ -2,6 +2,7 @@ Triangle Checker
 ================
 
 [![Build Status](https://travis-ci.org/butomo1989/triangle.svg?branch=master)](https://travis-ci.org/butomo1989/triangle)
+[![codecov](https://codecov.io/gh/butomo1989/triangle/branch/master/graph/badge.svg)](https://codecov.io/gh/butomo1989/triangle)
 
 Small app to check the type of triangle
 
