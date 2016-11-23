@@ -1,6 +1,8 @@
 Triangle Checker
 ================
 
+[![Build Status](https://travis-ci.org/butomo1989/triangle.svg?branch=master)](https://travis-ci.org/butomo1989/triangle)
+
 Small app to check the type of triangle
 
 Requirement
