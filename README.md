@@ -15,7 +15,7 @@ Installation
 ------------
 
 ```bash
-pip3 install -e git+https://github.com/butomo1989/triangle.git#egg=triangle
+pip3 install -e git+https://github.com/budtmo/adefa /triangle.git#egg=triangle
 ```
 
 Help
